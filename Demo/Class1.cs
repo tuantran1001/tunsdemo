@@ -8,6 +8,6 @@ namespace Demo
 {
     internal class Class1
     {
-
+        
     }
 }
