@@ -1,0 +1,14 @@
+C:\Data\HK2-2024\Windows_Programming\Demo\Demo\bin\Debug\net8.0\Demo.exe
+C:\Data\HK2-2024\Windows_Programming\Demo\Demo\bin\Debug\net8.0\Demo.deps.json
+C:\Data\HK2-2024\Windows_Programming\Demo\Demo\bin\Debug\net8.0\Demo.runtimeconfig.json
+C:\Data\HK2-2024\Windows_Programming\Demo\Demo\bin\Debug\net8.0\Demo.dll
+C:\Data\HK2-2024\Windows_Programming\Demo\Demo\bin\Debug\net8.0\Demo.pdb
+C:\Data\HK2-2024\Windows_Programming\Demo\Demo\obj\Debug\net8.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\HK2-2024\Windows_Programming\Demo\Demo\obj\Debug\net8.0\Demo.AssemblyInfoInputs.cache
+C:\Data\HK2-2024\Windows_Programming\Demo\Demo\obj\Debug\net8.0\Demo.AssemblyInfo.cs
+C:\Data\HK2-2024\Windows_Programming\Demo\Demo\obj\Debug\net8.0\Demo.csproj.CoreCompileInputs.cache
+C:\Data\HK2-2024\Windows_Programming\Demo\Demo\obj\Debug\net8.0\Demo.dll
+C:\Data\HK2-2024\Windows_Programming\Demo\Demo\obj\Debug\net8.0\refint\Demo.dll
+C:\Data\HK2-2024\Windows_Programming\Demo\Demo\obj\Debug\net8.0\Demo.pdb
+C:\Data\HK2-2024\Windows_Programming\Demo\Demo\obj\Debug\net8.0\Demo.genruntimeconfig.cache
+C:\Data\HK2-2024\Windows_Programming\Demo\Demo\obj\Debug\net8.0\ref\Demo.dll
